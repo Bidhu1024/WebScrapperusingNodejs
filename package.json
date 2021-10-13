@@ -1,0 +1,19 @@
+{
+  "name": "web-scrapping_project_in-javascript_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Extracter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "excel4node": "^1.7.2",
+    "jsdom": "^17.0.0",
+    "minimist": "^1.2.5",
+    "path": "^0.12.7",
+    "pdf-lib": "^1.16.0"
+  }
+}
